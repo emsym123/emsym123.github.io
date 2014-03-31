@@ -1,80 +1,37 @@
-<html class="no-js">
-<head>
-        
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        
-        <title>Fore ~ A Responsive Template from Papaya</title>
-        
-        <!-- Meta -->
-        <meta name="description" content="Fore is a free, responsive front end template from Papaya, made by Jordan Bowman.">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="author" content="Jordan Bowman">
-        <meta name="keywords" content="awesome, hott, extremely attractive, sheer brilliance">
-        
-        <!-- Google Author link -->
-        <link rel="author" href="Google+URL">
+---
 
-        <!-- Favicon.ico and apple-touch-icon.png (according to Apple docs). A good tool is http://iconifier.net/ -->
-        <link rel="shortcut icon" href="assets/ico/favicon.ico">
-        <link rel="apple-touch-icon" href="touch-icon-iphone.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="touch-icon-ipad.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad-retina.png">
+ layout: default
+ title: haha
 
-        <!-- CSS, Normalize First, minify for production -->
-        <link rel="stylesheet" type="text/css" href="less/master.css">
-        
-        <!-- Import web fonts using the link tag instead of CSS @import -->
-        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,900" rel="stylesheet" type="text/css">
-        
-        <!-- Icons from http://fontawesome.io/ -->
-        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-                
-    </head>
+---
 
-<header id="main-header">
-            <div class="container">
-                <h1>Fore</h1>
-                <p>A free responsive site template from Papaya</p>
-            </div>
-        </header>
-<section class="call-to-action">
-            <div class="cta-container cf">
-                <p>Astounding call to action? Yeah, that's right.</p>
-                <a class="btn" href="#">Get Started </a>
-            </div>
-</section>	
-<section id="summary">
-            <div class="container">
-                <h2>What makes Fore so great?</h2>
-                <p>It's responsive, beautiful, built with the latest code, includes all front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</p>
-                <a class="btn" href="#">Button</a>
-            </div>
-</section>
-<section id="three-images">
-            <div class="container">
-                <header class="body-header">
-                    <h2>You're probably feeling really inspired.</h2>
-                    <p>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</p>
-                </header>
-                <article class="cf">
-                    <div class="img-circle-div">
-                        <img src="images/circle1.jpg">
-                        <h3>Morbi in sem quis dui</h3>
-                        <p>Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</p>
-                    </div>
-                    <div class="img-circle-div">
-                        <img src="images/circle2.jpg">
-                        <h3>Nam nulla quam, gravida non</h3>
-                        <p>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices tem.</p>
-                    </div>
-                    <div class="img-circle-div">
-                        <img src="images/circle3.jpg">
-                        <h3>Suspendisse commodo</h3>
-                        <p>Sed adipiscing ornare risus. Morbi est est, blandit sit amet, sagittis vel, euismod vel, velit.</p>
-                    </div>
-                </article>
-            </div>
-</section>
-</html>
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Highlighted Media</h1>
+  <ul class="posts">
+    <li><span>02 Sep 2013</span> &raquo; <a href="http://www.wired.com/wiredenterprise/2013/09/github-for-anything/all/">Article: WIRED - GitHub Is Going Mainstream</a></li>
+    <li><span>09 Nov 2011</span> &raquo; <a href="http://vimeo.com/39016099">Video: RubyConf Argentina - Optimizing For Happiness</a></li>
+    <li><span>01 Oct 2011</span> &raquo; <a href="http://confreaks.com/videos/712-rubyconf2011-github-flavored-ruby">Video: RubyConf - GitHub Flavored Ruby</a></li>
+    <li><span>23 Nov 2010</span> &raquo; <a href="http://vimeo.com/17118008">Video: Erlang Factory - Mastering Git Basics</a></li>
+  </ul>
+
+ 
+
+  <h1>Prominent Open Source Projects</h1>
+  <ul class="posts">
+    <li><a href="http://github.com/github/gollum/">Gollum:</a> A simple, Git-powered wiki with a sweet API and local frontend.</li>
+    <li><a href="http://github.com/mojombo/jekyll/">Jekyll:</a> A simple, blog aware, static site generator (used for this site).</li>
+    <li><a href="http://github.com/mojombo/god/">God:</a> Ruby process monitoring framework with easy extensibility.</li>
+    <li><a href="http://github.com/mojombo/grit/">Grit:</a> Object oriented Ruby bindings for Git (used by GitHub).</li>
+    <li><a href="http://github.com/mojombo/ernie/">Ernie:</a> Ruby/Erlang Hybrid BERT-RPC server.</li>
+    <li><a href="http://github.com/mojombo/proxymachine/">ProxyMachine:</a> Layer 7 routing proxy in Ruby with Event Machine.</li>
+    <li><a href="http://github.com/mojombo/primer/">Primer:</a> JavaScript based Flash-like API layered on top of Canvas.</li>
+    <li><a href="http://github.com/mojombo/chronic/">Chronic:</a> Ruby natural language date/time parser.</li>
+  </ul>
+</div>

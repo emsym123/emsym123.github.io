@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <title>test</title>
+  <title>E</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="alternate" type="application/rss+xml" title="Jekyll • Simple, blog-aware, static sites - Feed" href="/feed.xml" />
   <link rel="alternate" type="application/atom+xml" title="Recent commits to Jekyll’s master branch" href="https://github.com/jekyll/jekyll/commits/master.atom" />
@@ -21,7 +21,7 @@
   <li class="">
     <a href="/">Overview</a>
   </li>
-  <li class="current">
+  <li class="">
     <a href="/docs/1/">Doc<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">umentation</span></a>
   </li>
   <li class="">
@@ -49,7 +49,7 @@
   <li class="">
     <a href="/">Overview</a>
   </li>
-  <li class="current">
+  <li class="">
     <a href="/docs/1/">Doc<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">umentation</span></a>
   </li>
   <li class="">
@@ -605,19 +605,19 @@
 
       <div class="unit four-fifths">
         <article>
-          <h1>test</h1>
-          <h2 id="this_is_test">this is test</h2>
+          <h1>E</h1>
+          <h2 id="hello_world">HELLO WORLD!!!</h2>
           <div class="section-nav">
   <div class="left align-right">
     
-      <a href="/docs/contributing/" class="prev">
+      <a href="/docs/D/" class="prev">
         Back
       </a>
     
   </div>
   <div class="right align-left">
     
-      <a href="/docs/history/" class="next">
+      <a href="/docs/test/" class="next">
         Next
       </a>
     
@@ -1137,7 +1137,7 @@
     
   
     
-      <li class="current"><a href="/docs/test/">test</a></li>
+      <li class=""><a href="/docs/test/">test</a></li>
     
   
     
