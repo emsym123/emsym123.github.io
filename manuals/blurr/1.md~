@@ -1,0 +1,20 @@
+---
+layout: docs
+title: 1
+next_section: 2
+permalink: /docs/manage
+---
+
+## mulu
+### di yi 
+[write_doc]({{http://localhost:4000/docs/manage/guide/write_doc}})
+[write_doc1]({{http://localhost:4000/docs/manage/guide/write_doc}})
+## 1.4.2 / 2013-12-16
+
+### Bug Fixes
+- Turn on Maruku fenced code blocks by default ([#1830]({{ site.repository }}/issues/1830))
+
+## 1.4.1 / 2013-12-09
+
+### Bug Fixes
+- Don't allow nil entries when loading posts ([#1796]({{ site.repository }}/issues/1796))
