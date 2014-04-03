@@ -1,7 +1,8 @@
 ---
 layout: docs
 title: article
-permalink: /docs/article/
+permalink: "/docs/article/"
+
 ---
 
 

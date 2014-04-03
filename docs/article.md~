@@ -2,6 +2,7 @@
 layout: docs
 title: article
 permalink: /docs/article/
+
 ---
 
 
@@ -12,5 +13,5 @@ permalink: /docs/article/
 ##[manage][]
 
 [Blurr]: /docs/blurr/first_page/
-[guide]: /docs/guide/blurr/
+[guide]: /docs/guide/guide/
 [manage]: /docs/manage/write_doc/

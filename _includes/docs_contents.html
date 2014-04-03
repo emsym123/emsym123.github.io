@@ -1,7 +1,8 @@
 <div class="unit one-fifth hide-on-mobiles">
+  <!--{{ page.book }}-->
   <aside>
-    {% for section in site.data.blurr %}
-    <h4>{{ section.title }}</h4>
+    {% for section in site.data[page.book] %}
+    <h4>{{ section.title }} </h4>
     {% include docs_ul.html items=section.docs%}
     {% endfor %}
   </aside>

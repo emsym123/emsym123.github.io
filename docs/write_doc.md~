@@ -1,7 +1,13 @@
 ---
 layout: docs
-permalink: /docs/write_doc/
+title: write_doc
+permalink: "/docs/write_doc/"
+prev_section: 2
+next_section: JAZZ
+var: value
+book: blurr
 ---
+
 
 #写文档只要在站目录下名为 `docs`、 `_posts` 下修改即可。　　　　　　
 

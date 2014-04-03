@@ -1,9 +1,10 @@
 ---
 layout: docs
 title: 3
-prev_section:2
+prev_section: 2
 next_section: JAZZ
 permalink: /docs/3/
+var: value
 ---
 
 #333333333333333333

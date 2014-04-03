@@ -1,9 +1,17 @@
 ---
 layout: docs
+title: write_docs
 permalink: /docs/manage/write_doc/
+prev_section: 
+next_section: 
+var: value
+book: manage
 ---
 
-#写文档只要在站目录下名为 `docs`、 `_posts` 下修改即可。　　　　　　
+
+#写文档只要在站目录下名为 `docs`、 `_posts` 下修改即可。　
+
+#This is a manage book ,　in the write_docs variable　　　
 
 
 
