@@ -1,5 +1,7 @@
- - title: guide
-   docs/guide:
-     - write_doc
-     - first_page
-     - second_page
+- title:guide
+  docs:
+  - blurr
+  - guide
+    
+
+

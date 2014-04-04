@@ -1,9 +1,10 @@
 ---
 layout: docs
-title: first_page
+title: 
 next_section: 
 book: blurr
 chapter: first
+var: value
 permalink: "/docs/blurr/first_page/"
 ---
 

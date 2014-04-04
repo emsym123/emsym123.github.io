@@ -3,7 +3,7 @@
   <aside>
     {% for section in site.data[page.book] %}
     <h4>{{ section.title }} </h4>
-    {% include docs_ul.html items=section.docs[page.book]%}
+    {% include docs_ul.html items=section.a%}
     {% endfor %}
   </aside>
 </div>

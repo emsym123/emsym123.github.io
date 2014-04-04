@@ -1,9 +1,11 @@
- - title:blurr
-     docs:
-      - write_doc
-      - first_page
-      - second_page
+- title: blurr
+  docs/blurr:
+  - write_doc
+  - first_page
+  - second_page
   
+
+
 
 
 

@@ -1,14 +1,7 @@
 - title: blurr111
-  docs:
-  - write_doc
-  - first_page
-  - second_page
-  - JAZZ
-  - second_page
-  - write_doc
-  - C
-  - write
-  - history
-  - 2
+    docs:
+      - JAZZ
+      - C
+      - 2
 
 
