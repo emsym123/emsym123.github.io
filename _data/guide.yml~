@@ -1,5 +1,5 @@
  - title: guide
-   manage:
+   docs/guide:
      - write_doc
      - first_page
      - second_page

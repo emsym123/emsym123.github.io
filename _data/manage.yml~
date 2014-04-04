@@ -1,5 +1,4 @@
  - title: manage
-   manage:
+   docs/manage:
      - write_doc
-     - first_page
-     - second_page
+  
