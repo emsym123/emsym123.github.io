@@ -1,8 +1,13 @@
-- title: blurr
-  docs/blurr:
+- title: chapter1
+  docs:
   - write_doc
   - first_page
   - second_page
+
+- title: chapter2
+  docs:
+  - 11
+  
   
 
 

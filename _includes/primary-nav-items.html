@@ -1,17 +1,16 @@
 <ul>
+  <li class="{% if page.author %}current{% endif %}">
+    <a href="{{ site.url }}/">首页</a>
+  </li>
   <li class="{% if page.overview %}current{% endif %}">
     <a href="{{ site.url }}/">产品</a>
   </li>
-   <!--<li class="{% if page.url contains '/docs/' %}current{% endif %}">
-   <a href="{{ site.url }}/docs/1/">Doc<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">umentation</span></a>
-  </li>-->
-
   <li class="{% if page.author %}current{% endif %}">
     <a href="{{ site.url }}/docs/article">文档</a>
   </li>
    
    <li class="">
-    <a href="http://www.emsym.com/index.php/zh/about.html"><span class="hide-on-mobiles">View on </span>关于昂信</a>
+    <a href="http://www.emsym.com/index.php/zh/about.html"><span class="hide-on-mobiles"> 关于</span>昂信</a>
   </li>
 </ul>
 

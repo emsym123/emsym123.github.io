@@ -21,7 +21,7 @@ layout: default
 
       {% include docs_contents.html %}
 
-      <div class="clear"></div>
+      <div class=""></div>
 
     </div>
   </section>
