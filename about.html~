@@ -1,0 +1,101 @@
+---
+layout: default
+title: EMSYM
+overview: true
+---
+<section class="intro">
+<head>
+        
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        <!-- Meta -->
+        <meta name="description" content="Fore is a free, responsive front end template from Papaya, made by Jordan Bowman.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+       <meta name="keywords" content="awesome, hott, extremely attractive, sheer brilliance">
+  
+        <!-- CSS, Normalize First, minify for production -->
+        <link rel="stylesheet" type="text/css" href="less/master.css">
+        
+        <!-- Import web fonts using the link tag instead of CSS @import -->
+        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,900" rel="stylesheet" type="text/css">
+        
+        <!-- Icons from http://fontawesome.io/ -->
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+</head>
+
+<div style="text-align: center">
+<div style="position: relative;">
+	<img src="/img/jazz.jpg"  border="0" width="914">
+	<img src="img/shadow.png" border="0" style="position: absolute; left: 300px; top: 21px;  width: 778px; height: 324px;">
+		<div style="position: absolute; left: 300px; top: 60px; color: #ffffff; font-size: 30px; font-family: SimHei;">
+			<span style="font-family: Á¥Êé; font-size: 48px;">昂信科技</span> 致力于提供一流的嵌入式系统开发平台
+		</div>
+			<div style="position: absolute; left: 300px; top: 126px; font-family: SimHei; color: #ffffff; font-size: 28px; margin: 0.4px 0 0 0;">公司主要业务范围：
+				<ul style="color: #ffffff;  font-size: 29px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
+				<li>嵌入式评估板、开发板</li>
+				<li>教育教学资源</li>
+				<li>嵌入式产品解决方案</li>
+				<li>嵌入式应用产品委托开发</li>
+				</ul>
+			</div>
+</div>
+
+<div style="position: relative; margin: 15px 0 0 0;">
+	<img src="img/vision .jpg" border="0" width="914">
+	<img src="img/shadow.png" border="0" style="position: absolute; left: 300px; top: 52px; width: 613px; height: 83px;">
+	<img src="img/shadow.png" border="0" style="position: absolute; left: 300px; top: 167px; width: 718px; height: 194px;">
+		<div style="position: absolute; left: 300px; top: 62px; color: #ffffff; font-size: 31px; font-family: SimHei;">
+			<span style="font-family: Á¥Êé; font-size: 50px;">愿景</span>做最<span style=" font-size:40px;color:#38B0DE;">开放</span>的嵌入式系统开发平台
+		</div>
+		<div style="position: absolute; left: 300px; top: 192px; margin: 0.4px 0 0 0;">
+			<ul style="color: #ffffff; font-size: 30px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
+			<li>开源的电路设计</li>
+			<li>开放的教材课件，提供开发板配套的教学资源</li>
+			<li>开放的解决方案，提供开放的源代码和源码分析</li>
+			</ul>
+		</div>
+</div>
+
+<div style="position: relative;">
+	<img src="/img/jazz.jpg"  border="0" width="914">
+	<img src="img/shadow.png" border="0" style="position: absolute; left: px; top: 21px; width: 778px; height: 324px;">
+		<div style="position: absolute; left: 80px; top: 60px; color: #ffffff; font-size: 30px; font-family: SimHei;">
+			<span style="font-family: Á¥Êé; font-size: 48px;">企业委托开发</span> 
+		</div>
+			<div style="position: absolute; left: 111px; top: 126px; font-family: SimHei; color: #ffffff; font-size: 28px; margin: 0.4px 0 0 0;">
+
+				<ul style="color: #ffffff; font-size: 29px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
+				<li>系统设计</li>
+				<li>PCB设计</li>
+				<li>Linux,Android,pC/OSII开发</li>
+				<li>软件及应用程序开发</li>
+				<li>嵌入式软件及硬件开发技术咨询</li>
+				<li>产品生产服务</li>
+				</ul>
+			</div>
+</div>
+
+<div style="position: relative; margin: 15px 0 0 0;">
+	<img src="img/vision .jpg" border="0" width="914">
+	<img src="img/shadow.png" border="0" style="position: absolute; left: 57px; top: 52px; width: 613px; height: 83px;">
+	<img src="img/shadow.png" border="0" style="position: absolute; left: 96px; top: 167px; width: 718px; height: 194px;">
+		<div style="position: absolute; left: 80px; top: 62px; color: #ffffff; font-size: 31px; font-family: SimHei;">
+			<span style="font-family: Á¥Êé; font-size: 30px;">专注于飞思卡尔、意法等ARM处理器</span>
+		</div>
+		<div style="position: absolute; left: 111px; top: 192px; margin: 0.4px 0 0 0;">
+			<ul style="color: #ffffff; font-size: 30px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
+			<li> 提供评估板、开发板</li>
+			<li>    开放的教学资源</li>
+			<li>提供嵌入式产品解决方案</li>
+			</ul>
+		</div>
+</div>
+
+</div>
+
+
+
+
+
+

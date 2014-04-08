@@ -12,6 +12,6 @@ permalink: "/docs/article/"
 
 ##[manage][]
 
-[Blurr]: /docs/blurr/first_page/
+[Blurr]: /docs/blurr/write_doc/
 [guide]: /docs/guide/guide/
 [manage]: /docs/manage/write_doc/

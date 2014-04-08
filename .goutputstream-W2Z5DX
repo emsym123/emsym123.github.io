@@ -1,0 +1,31 @@
+---
+layout: default
+title: EMSYM
+overview: true
+---
+<section class="intro">
+<head>
+        
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        <!-- Meta -->
+        <meta name="description" content="Fore is a free, responsive front end template from Papaya, made by Jordan Bowman.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+       <meta name="keywords" content="awesome, hott, extremely attractive, sheer brilliance">
+  
+        <!-- CSS, Normalize First, minify for production -->
+        <link rel="stylesheet" type="text/css" href="less/master.css">
+        
+        <!-- Import web fonts using the link tag instead of CSS @import -->
+        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,900" rel="stylesheet" type="text/css">
+        
+        <!-- Icons from http://fontawesome.io/ -->
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+</head>
+<section >
+<div style="position: relative; width:1000">
+	<img src="img/jazz.jpg" border="0" >
+	<img src="img/shadow.png" border="0" style="position: absolute; left: 56px; top: 21px; width: 778px; height: 324px;">
+		<div style="position: absolute; left: 80px; top: 60px; color: #ffffff; font-size: 30px; font-family: SimHei;">
+			<span style="font-family: Á¥Êé; font-size: 48px;">
