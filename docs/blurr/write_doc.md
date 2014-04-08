@@ -8,7 +8,99 @@ var: value
 book: blurr
 ---
 
-#写文档只要在站目录下名为 `docs`、 `_posts` 下修改即可。　　　　　　
+ <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="index.html" title="Welcome to my project’s documentation!"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">my project v1.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <p>Contents:</p>
+<div class="toctree-wrapper compound">
+<ul class="simple">
+</ul>
+</div>
+<div class="section" id="docs">
+<h1>docs目录<a class="headerlink" href="#docs" title="Permalink to this headline">¶</a></h1>
+<p>在docs目录下增加书的在第一文档，目前我建立了三本书分别blurr
+、guide、manage.
+要想写那一本书的文档，目击书本名新建一个以.md为后缀的文本
+写的文档要特别注意文档头部的写法如图a所示</p>
+<img src="{{ site.url }}/img/a.png" width="90%" height="80%" alt="">
+</div>
+<div class="section" id="data">
+<h1>_data目录<a class="headerlink" href="#data" title="Permalink to this headline">¶</a></h1>
+<p>在_data目录下增加书的文档链接，在网站中的导航。
+在这个_data目录下新建的目录是以.yml为后缀,其语法如图b所示</p>
+<img src="{{ site.url }}/img/b.png" width="90%" height="80%" alt="">
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">docs目录</a></li>
+<li><a class="reference internal" href="#data">_data目录</a></li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="index.html"
+                        title="previous chapter">Welcome to my project&#8217;s documentation!</a></p>
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="_sources/code.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="index.html" title="Welcome to my project’s documentation!"
+             >previous</a> |</li>
+        <li><a href="index.html">my project v1.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2014, yumin.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+  </body>　　　　　　
 
 
 
