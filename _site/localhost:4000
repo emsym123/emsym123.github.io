@@ -17,7 +17,7 @@
 <body class="wrap">
   <header>
   <nav class="mobile-nav show-on-mobiles">
-    <ul>
+    <ul style="text-align:center">
   <!--<li class="">
     <a href="/">首页</a>
   </li>-->
@@ -40,12 +40,12 @@
     <div class="unit one-third center-on-mobiles">
       <h1>
         <a href="/">
-          <img src="/img/logo.png" width="100%" height="100%" alt="">
+          <img src="/img/logo.png" width="90%" height="80%" alt="">
         </a>
       </h1>
     </div>
     <nav class="main-nav unit two-thirds hide-on-mobiles">
-      <ul>
+      <ul style="text-align:center">
   <!--<li class="">
     <a href="/">首页</a>
   </li>-->
@@ -228,9 +228,9 @@
 	</h1>
           <h2 id="hello_world">HELLO WORLD!!!</h2>
           <div class="section-nav">
-  <div class="left align-right">
+  <!--<div class="left align-right">
     
-      <a href="/docs/D/" class="prev">
+     <a href="/docs/D/" class="prev">
         Back
       </a>
     
@@ -242,7 +242,7 @@
       </a>
     
   </div>
-  <div class="clear"></div>
+  <div class="clear"></div>-->
 </div>
 
 
