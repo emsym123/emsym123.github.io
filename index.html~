@@ -26,7 +26,7 @@ overview: true
 </head>
 
 
-<section id="macbookpro">
+<section id="summary">
             <div class="container">
                 <h2>What makes我是so great?</h2>
                 <p><h3>It's responsive, beautiful, built with the latest code, includes all front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</h3></p>
@@ -41,7 +41,7 @@ overview: true
             </div>
 </section>	
 
-<section id="summary">
+<section id="macbook">
             <div class="container">
                 <h2>What makes Fore so great?</h2>
                 <p><h3>It's responsive, beautiful, built with the latest code, includes all front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</h3></p>

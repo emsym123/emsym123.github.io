@@ -2,16 +2,16 @@
 	<li class="{% if page.overview %}current{% endif %}">
 		<a href="{{ site.url }}/">产品</a>
 	</li>
-	<li class>
-		<a href="about.html">关于昂信</a>
-	</li>
+	
 	<li class="{% if page.author %}current{% endif %}">
 		<a href="{{ site.url }}/docs/article">文档</a>
 	</li>
 	<li class>
-		<a href="about.html>
-<span > 关于</span>昂信</a>
-</li>
+		<a href="about.html">关于昂信</a>
+	</li>
+	<li class>
+		<a href="about.html">关于产品</a>
+	</li>
 </ul>
 
 

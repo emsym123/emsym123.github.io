@@ -24,7 +24,7 @@ overview: true
 </head>
 
 
-<section id="jazz">
+<section id="summary">
             <div class="container" style="position: relative; margin: 15px 0 0 0;">
               <div style="background-image:/img/jazz.jpg"></div>
                <h2>昂信科技致力于提供一流的嵌入式系统开发平台</h2>
@@ -66,7 +66,7 @@ overview: true
             </div>
 </section>
 
-<section id="jazz">
+<section id="macbook">
             <div class="container" style="position: relative; margin: 15px 0 0 0;">
                <h2>愿景做最开放的嵌入式系统开发平台</h2>
 		</div>
