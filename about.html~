@@ -11,23 +11,22 @@ overview: true
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         
         <!-- Meta -->
-        <meta name="description" content="Fore is a free, responsive front end template from Papaya, made by Jordan Bowman.">
+        <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-       <meta name="keywords" content="awesome, hott, extremely attractive, sheer brilliance">
+       <meta name="keywords" content="">
   
         <!-- CSS, Normalize First, minify for production -->
         <link rel="stylesheet" type="text/css" href="less/master.css">
         
-        <!-- Import web fonts using the link tag instead of CSS @import -->
-        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,900" rel="stylesheet" type="text/css">
+       
         
-        <!-- Icons from http://fontawesome.io/ -->
-        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+       
 </head>
 
 
-<section id="summary">
+<section id="jazz">
             <div class="container" style="position: relative; margin: 15px 0 0 0;">
+              <div style="background-image:/img/jazz.jpg"></div>
                <h2>昂信科技致力于提供一流的嵌入式系统开发平台</h2>
 		</div>
 		
@@ -42,6 +41,24 @@ overview: true
             </div>
 </section>
 
+<section id="jazz">
+<div style="position: relative; margin: 15px 0 0 0;">
+	<img src="img/vision .jpg" border="0" width=device-width>
+	
+		<div style="position: absolute; left: 300px; top: 62px; color: #ffffff; font-size: 31px; font-family: SimHei;">
+			<span style="font-family: Á¥Êé; font-size: 50px;">愿景</span>做最<span style=" font-size:40px;color:#38B0DE;">开放</span>的嵌入式系统开发平台
+		</div>
+		<div style="position: absolute; left: 300px; top: 192px; margin: 0.4px 0 0 0;">
+			<ul style="color: #ffffff; font-size: 30px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
+			<li>开源的电路设计</li>
+			<li>开放的教材课件，提供开发板配套的教学资源</li>
+			<li>开放的解决方案，提供开放的源代码和源码分析</li>
+			</ul>
+		</div>
+</div>
+</section>
+
+
 <section class="call-to-action">
             <div class="cta-container cf">
                
@@ -49,7 +66,7 @@ overview: true
             </div>
 </section>
 
-<section id="summary">
+<section id="jazz">
             <div class="container" style="position: relative; margin: 15px 0 0 0;">
                <h2>愿景做最开放的嵌入式系统开发平台</h2>
 		</div>
@@ -106,6 +123,11 @@ overview: true
             </div>
 </section>
 
+<section class="call-to-action">
+            <div class="cta-container cf">
+               
+            </div>
+</section>
 
 
 

@@ -26,9 +26,9 @@ overview: true
 </head>
 
 
-<section id="summary">
+<section id="macbookpro">
             <div class="container">
-                <h2>What makes Fore so great?</h2>
+                <h2>What makes我是so great?</h2>
                 <p><h3>It's responsive, beautiful, built with the latest code, includes all front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</h3></p>
 		<a class="btn" href="http://localhost:4000/docs/1/">Button</a>
             </div>
