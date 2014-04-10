@@ -76,6 +76,8 @@ body{
 .top-header {
 	border-bottom: 1px solid rgba(153, 153, 153, 0.32);
 }
+
+
 /*---End-top-header----*/
 /*---start-content-----*/
 .wellcome-note{
@@ -348,10 +350,6 @@ body{
     width: 100%;
     top: 0;
     left: 0;
-}
-.images17{
-     background: url(../images/imgaes17.png);
-     
 }
 .arrow {
     width: 42px;
