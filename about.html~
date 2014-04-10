@@ -7,13 +7,6 @@ overview: true
 <section class="intro">
 <head>
         
-        <!--<meta charset="utf-8">-->
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        
-        <!-- Meta -->
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-       <meta name="keywords" content="">
   
         <!-- CSS, Normalize First, minify for production -->
         <link rel="stylesheet" type="text/css" href="less/master.css">

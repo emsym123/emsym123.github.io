@@ -1,11 +1,11 @@
 
 <html>
 	<head>
-		
+		  <meta charset="utf-8">
 		
 		<title>product</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta charset="utf-8">
+		
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 		</script>
 	    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -51,7 +51,7 @@
 						<label> </label><span> </span> <label> </label>
 						<div class="clear"> </div>
 					</div>
-					<h3><span>����</sapn>��ɫ</h3>
+					<h3><span>功能</sapn>特色«</h3>
 				</div>
 					<div class="clear"> </div>
 					<div class="feature-grid">
@@ -60,8 +60,8 @@
 						</div>
 
 						<div class="feature-grid-right" style="text-algin:center">
-							<h4>ARM �ƶ����� Step1����﮵��</h4>
-							<p>﮵� & 5V/DC˫��Դ��ơ���Я�Ŀ����壬���Լ��ķ�ɡ�</p>
+							<h4>ARM 移动开发 Step1标配锂电池</h4>
+							<p>锂电 & 5V/DC双电源设计。便携的开发板，秀自己的采</p>
 							<a class="btn" href="#">Read More</a>
 						</div>
 						<div class="clear"> </div>
@@ -73,8 +73,8 @@
 							<a href="#"><img src="images/wifi_large.png" alt="" /></a>	
 						</div>
 						<div class="feature-grid-right feature-grid-left1">
-							<h4>ARM �ƶ����� Step2 WIFI����</h4>
-							<p>����ʱ��������WIFI���������翪��ѧϰ��������ô�򵥡�</p>
+							<h4>ARM 移动开发 Step2 WIFI网络</h4>
+							<p>紧随时代，板载WIFI。无线网络开发学习，就是这么简单。</p>
 							<a class="btn" href="#">Read More</a>
 						</div>
 						<div class="clear"> </div>
@@ -86,8 +86,8 @@
 							<a href="#"><img src="images/interface.png" alt="" /></a>	
 						</div>
 						<div class="feature-grid-right feature-grid-left1">
-							<h4>ARM �ƶ����� Step3 �ḻ�ӿ�</h4>
-							<p>�ӿ���Դ�ḻ�� ����ҡ��˫�ֲ������</p>
+							<h4>ARM 移动开发 Step3 丰富接口</h4>
+							<p>接口资源丰富。 按键摇杆双手布局设计</p>
 							<a class="btn" href="#">Read More</a>
 						</div>
 						<div class="clear"> </div>
@@ -99,8 +99,8 @@
 							<a href="#"><img src="images/coreboard_large.png" alt="" /></a>	
 						</div>
 						<div class="feature-grid-right feature-grid-left1">
-							<h4>ARM �ƶ����� Step4 ���º��İ�</h4>
-							<p>��Сimx233,����ARM926E���ģ��ߴ��Ϊ44mm*37mm����ʧ�ȶ��ԣ����ڹ�ҵ�з���</p>
+							<h4>ARM 移动开发 Step4 精致核心板</h4>
+							<p>最小imx233,基于ARM926E核心，尺寸仅为44mm*37mm。不失稳定性，便于工业研发。</p>
 							<a class="btn" href="#">Read More</a>
 						</div>
 						<div class="clear"> </div>
@@ -114,14 +114,14 @@
 						<label> </label><span> </span> <label> </label>
 						<div class="clear"> </div>
 					</div>
-					<h3><span>��</span> Ʒ</h3>
-					<p class="proinfo">ͼƬչʾ</p>
+					<h3><span>产</span> 品</h3>
+					<p class="proinfo">图片展示</p>
 				</div>
 				<div class="project-grids">
 					<div class="project-grid">
 						<div class="projects">
 							<div class="project-grid1">
-								<a class="fancybox" rel="group" href="images/1a.png" title="���İ�">
+								<a class="fancybox" rel="group" href="images/1a.png" title="核心板">
 									<img src="images/1.png" class="borderImage slickHoverZoom" alt="Night" />
 								</a>
 								
