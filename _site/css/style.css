@@ -349,6 +349,10 @@ body{
     top: 0;
     left: 0;
 }
+.images17{
+     background: url(../images/imgaes17.png);
+     
+}
 .arrow {
     width: 42px;
     height: 175px;

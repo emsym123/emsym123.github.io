@@ -7,6 +7,13 @@ overview: true
 <section class="intro">
 <head>
         
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        <!-- Meta -->
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+       <meta name="keywords" content="">
   
         <!-- CSS, Normalize First, minify for production -->
         <link rel="stylesheet" type="text/css" href="less/master.css">
@@ -34,7 +41,14 @@ overview: true
             </div>
 </section>
 
-<section id="jazz">
+<section class="call-to-action">
+            <div class="cta-container cf">
+               
+              
+            </div>
+</section>
+
+<section id="summary">
 <div style="position: relative; margin: 15px 0 0 0;">
 	<img src="img/vision .jpg" border="0" width=device-width>
 	
@@ -52,16 +66,11 @@ overview: true
 </section>
 
 
-<section class="call-to-action">
-            <div class="cta-container cf">
-               
-              
-            </div>
-</section>
 
-<section id="macbookpro">
+
+<section id="summary">
             <div class="container" style="position: relative; margin: 15px 0 0 0;">
-               <h2>愿景做最开放的嵌入式系统开发平台</h2>
+               <h2><span style="font-family: Á¥Êé; font-size: 50px;">愿景</span>做最开放的嵌入式系统开发平台</h2>
 		</div>
 		
               <ul style="color: #ffffff; font-size: 30px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
