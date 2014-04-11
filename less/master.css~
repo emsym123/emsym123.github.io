@@ -47,7 +47,7 @@ body{width:100%}html{font-family:"Lato","Helvetica Neue",Helvetica,sans-serif;fo
 
 #home:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
           background:url(../images/jazz.png) repeat center center;}
-#home,.slider .btn{background:transparent;
+#hometn,.slider .btn{background:transparent;
           border:2px solid #FCFCFC;-webkit-transition:background-color .2s ease-out;
 		  -webkit-transition-property:background-color;-webkit-transition-duration:.2s;
 		  -webkit-transition-timing-function:ease-out;-webkit-transition-delay:initial;

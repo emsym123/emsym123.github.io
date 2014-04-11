@@ -24,21 +24,8 @@ overview: true
 </head>
 
 
-<section id="summary">
-            <div class="container" style="position: relative; margin: 15px 0 0 0;">
-              <div style="background-image:/img/jazz.jpg"></div>
-               <h2>昂信科技致力于提供一流的嵌入式系统开发平台</h2>
-		</div>
-		
-              <h3>公司主要业务范围：</h3>
-		<ul style="color: #ffffff;  font-size: 29px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
-				<li>嵌入式评估板、开发板</li>
-				<li>教育教学资源</li>
-				<li>嵌入式产品解决方案</li>
-				<li>嵌入式应用产品委托开发</li>
-				</ul>
-		<a class="btn" href="#">Button</a>
-            </div>
+<section id="home">
+           
 </section>
 
 <section class="call-to-action">
@@ -48,22 +35,7 @@ overview: true
             </div>
 </section>
 
-<section id="summary">
-<div style="position: relative; margin: 15px 0 0 0;">
-	<img src="img/vision .jpg" border="0" width=device-width>
-	
-		<div style="position: absolute; left: 300px; top: 62px; color: #ffffff; font-size: 31px; font-family: SimHei;">
-			<span style="font-family: Á¥Êé; font-size: 50px;">愿景</span>做最<span style=" font-size:40px;color:#38B0DE;">开放</span>的嵌入式系统开发平台
-		</div>
-		<div style="position: absolute; left: 300px; top: 192px; margin: 0.4px 0 0 0;">
-			<ul style="color: #ffffff; font-size: 30px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
-			<li>开源的电路设计</li>
-			<li>开放的教材课件，提供开发板配套的教学资源</li>
-			<li>开放的解决方案，提供开放的源代码和源码分析</li>
-			</ul>
-		</div>
-</div>
-</section>
+
 
 
 

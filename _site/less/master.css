@@ -9,7 +9,7 @@ body{width:100%}html{font-family:"Lato","Helvetica Neue",Helvetica,sans-serif;fo
         text-shadow:0 0 1px rgba(0,0,0,.05),0 1px 2px rgba(0,0,0,.3);}/*  background:#AA7742  */
 #summary .container{position:relative;z-index:2}
 #summary:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
-          background:url(../images/jazz.jpg) repeat center center;opacity:.3}
+          background:url(../images/jazz.jpg) repeat center center;}
 #summary p{margin:0 0 2.7em 0}
 #summary a,.slider a{color:#fff;border-bottom:1px solid white}
 #summary .btn,.slider .btn{background:transparent;
@@ -27,7 +27,7 @@ body{width:100%}html{font-family:"Lato","Helvetica Neue",Helvetica,sans-serif;fo
         text-shadow:0 0 1px rgba(0,0,0,.05),0 1px 2px rgba(0,0,0,.3);background:#ffc}/*  background:#AA7742  */
 #vision .container{position:relative;z-index:2}
 #vision:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
-          background:url(../images/vision.jpg) repeat center center;opacity:.3}
+          background:url(../images/vision.jpg) repeat center center;}
 #vision p{margin:0 0 2.7em 0}
 #vision a,.slider a{color:#fff;border-bottom:1px solid white}
 #vision .btn,.slider .btn{background:transparent;
@@ -40,6 +40,21 @@ body{width:100%}html{font-family:"Lato","Helvetica Neue",Helvetica,sans-serif;fo
 		  transition-timing-function:ease-out;transition-delay:initial}
 #vision .btn:hover,.slider .btn:hover{background:rgba(255,255,255,.2);color:#fff}
 #vision{padding:2.5em 0 5em 0}
+
+
+#home{width:100%;text-align:center;position:relative;padding:4em 0 6em 0;box-shadow:0 1px 2px 
+       }/*  background:#AA7742  */
+
+#home:after{content:'';display:block;position:absolute;top:0;right:0;bottom:0;left:0;
+          background:url(../images/jazz.png) repeat center center;}
+#home,.slider .btn{background:transparent;
+          border:2px solid #FCFCFC;-webkit-transition:background-color .2s ease-out;
+		  -webkit-transition-property:background-color;-webkit-transition-duration:.2s;
+		  -webkit-transition-timing-function:ease-out;-webkit-transition-delay:initial;
+		  -moz-transition:background-color .2s ease-out;-o-transition:background-color .2s ease-out;
+		  -ms-transition:background-color .2s ease-out;transition:background-color .2s ease-out;
+		  transition-property:background-color;transition-duration:.2s;
+		  transition-timing-function:ease-out;transition-delay:initial}
 
 
 #three-images{padding:4em 0 6em 0;}
