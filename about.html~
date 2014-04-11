@@ -25,7 +25,20 @@ overview: true
 
 
 <section id="home">
-           
+            <div class="container" style="position: relative; margin: 15px 0 0 0;">
+            
+               <h2>昂信科技致力于提供一流的嵌入式系统开发平台</h2>
+		</div>
+		
+              <h3>公司主要业务范围：</h3>
+		<ul style="color: #ffffff;  font-size: 29px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
+				<li>嵌入式评估板、开发板</li>
+				<li>教育教学资源</li>
+				<li>嵌入式产品解决方案</li>
+				<li>嵌入式应用产品委托开发</li>
+				</ul>
+		
+            </div>
 </section>
 
 <section class="call-to-action">

@@ -11,101 +11,92 @@ overview: true
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         
         <!-- Meta -->
-        <meta name="description" content="Fore is a free, responsive front end template from Papaya, made by Jordan Bowman.">
+        <meta name="description" content="jazz">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-       <meta name="keywords" content="awesome, hott, extremely attractive, sheer brilliance">
+        <meta name="keywords" content="jazz">
   
         <!-- CSS, Normalize First, minify for production -->
         <link rel="stylesheet" type="text/css" href="less/master.css">
         
-        <!-- Import web fonts using the link tag instead of CSS @import -->
-        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,900" rel="stylesheet" type="text/css">
-        
-        <!-- Icons from http://fontawesome.io/ -->
-        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-
-	  <!--<link href="css/style.css" rel="stylesheet" type="text/css"  media="all" />-->
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise|Engagement' rel='stylesheet' type='text/css'>
-
-
-	
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-		<script type="text/javascript" src="js/move-top.js"></script>
-		<script type="text/javascript" src="js/easing.js"></script>
-		<script type="text/javascript">
-						jQuery(document).ready(function($) {
-							$(".scroll").click(function(event){		
-								event.preventDefault();
-								$('html,body').animate({scrollTop:$(this.hash).offset().top},1200);
-							});
-						});
-					</script>
-		<script>
-			$("#slideshow > div:gt(0)").hide();
-			setInterval(function() { 
-			  $('#slideshow > div:first')
-			    .fadeOut(500)
-			    .next()
-			    .fadeIn(500)
-			    .end()
-			    .appendTo('#slideshow');
-			},  2000);
-		</script>
 </head>
 
 
 <section id="summary">
-            <div class="container">
-                <h2>What makes我是so great?</h2>
-                <p><h3>It's responsive, beautiful, built with the latest code, includes all front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</h3></p>
-		<a class="btn" href="http://localhost:4000/docs/1/">Button</a>
+	<div class="container">
+                <h2>What makes  Fore so great?</h2>
+                <p><h3>It's responsive, beautiful, built with the latest code, includes all
+				front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</h3></p>
+		<a class="btn" href="http://localhost:4000/product.html">Button</a>
             </div>
 </section>
 
 <section class="call-to-action">
             <div class="cta-container cf">
-                <p><h4>Astounding call to action?</h4></p>
-                <a class="btn" href="http://localhost:4000/docs/3/">Get Started </a>
+               
+               
             </div>
 </section>	
 
-<section id="summary">
+<section id="vision">
             <div class="container">
                 <h2>What makes Fore so great?</h2>
                 <p><h3>It's responsive, beautiful, built with the latest code, includes all front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</h3></p>
-		<a class="btn" href="http://localhost:4000/docs/A/">Button</a>
+		<a class="btn" href="http://localhost:4000/docs/product.html">Button</a>
             </div>
 </section>
 
 <section class="call-to-action">
             <div class="cta-container cf">
-                <p><h4>Astounding call to action?</h4></p>
-                <a class="btn" href="http://localhost:4000/docs/2/">Get Started </a>
+             
             </div>
 </section>
 
 <section id="three-images">
             <div class="container">
-                <header class="body-header">
-                    <h2>You're probably feeling really inspired.</h2>
-                    <p><h3>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h3></p>
-                </header>
-                
+                <div class="img-circle-div">
+                        <img src="images/3.png">
+                        <h4>Morbi in sem quis dui</h4>
+                        <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
+                </div>
+
                     <div class="img-circle-div">
-                        <img src="images/process.png">
+                        <img src="images/8.png">
                         <h4>Morbi in sem quis dui</h4>
                         <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
                     </div>
 
                     <div class="img-circle-div">
-                        <img src="images/process.png">
+                        <img src="images/11.png">
+                        <h4>Suspendisse commodo</h4>
+                        <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
+                    </div>
+               
+            </div>
+</section>
+</section>
+
+<section class="call-to-action">
+            <div class="cta-container cf">
+             
+            </div>
+</section>
+
+<section id="three-images">
+            <div class="container">
+                <div class="img-circle-div">
+                        <img src="images/3.png">
+                        <h4>Morbi in sem quis dui</h4>
+                        <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
+                </div>
+
+                    <div class="img-circle-div">
+                        <img src="images/8.png">
                         <h4>Morbi in sem quis dui</h4>
                         <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
                     </div>
 
                     <div class="img-circle-div">
-                        <img src="images/prize_winner.png">
+                        <img src="images/11.png">
                         <h4>Suspendisse commodo</h4>
                         <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
                     </div>
@@ -113,248 +104,12 @@ overview: true
             </div>
 </section>
 
-
-
-<section class="">
-            <div class="our-mission" id="team">
-        <div class="wrap">
-            <div class="our-mission-left">
-                <h4>产品展示</h4>
+<section id="vision">
+            <div class="container">
+                <h2>What makes Fore so great?</h2>
+                <p><h3>It's responsive, beautiful, built with the latest code, includes all front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</h3></p>
+		<a class="btn" href="http://localhost:4000/docs/product.html">Button</a>
             </div>
-          
-            <div class="clear"> </div>
-<div id="ca-container" class="ca-container"><div class="ca-nav"><span class="ca-nav-prev">Previous</span><span class="ca-nav-next">Next</span></div>
-				<div style="overflow: hidden;" class="ca-wrapper">
-					<div style="position: absolute; left: 0px; display: block;" class="ca-item ca-item-7">
-						<div class="ca-item-main">
-							<div class="ca-icon"> </div>
-							<h3>Save the planet</h3>
-							<h4>
-								<span class="ca-quote">¡°</span>
-								<span>A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.</span>
-							</h4>
-								<a style="display: block;" href="#" class="ca-more">+</a>
-						</div>
-						<div style="left: 330px; width: 0px;" class="ca-content-wrapper">
-							<div class="ca-content">
-								<h6>Collateral damage?</h6>
-								<a href="#" class="ca-close">close</a>
-								<div class="ca-content-text">
-									<p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-									<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream;</p>
-									<p>She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-								</div>
-								<ul>
-									<li><a href="#">Read more</a></li>
-									<li><a href="#">Share this</a></li>
-									<li><a href="#">Become a member</a></li>
-									<li><a href="#">Donate</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					
-					<div style="position: absolute; left: 330px; display: block;" class="ca-item ca-item-8">
-						<div class="ca-item-main">
-							<div class="ca-icon"> </div>
-							<h3>It's time to move on</h3>
-							<h4>
-								<span class="ca-quote">¡°</span>
-								<span>A nation's culture resides in the hearts and in the soul of its people.</span>
-							</h4>
-								<a style="display: block;" href="#" class="ca-more">+</a>
-						</div>
-						<div style="left: 330px; width: 0px;" class="ca-content-wrapper">
-							<div class="ca-content">
-								<h6>Let's finally become humans</h6>
-								<a href="#" class="ca-close">close</a>
-								<div class="ca-content-text">
-									<p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-									<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream;</p>
-									<p>She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-								</div>
-								<ul>
-									<li><a href="#">Read more</a></li>
-									<li><a href="#">Share this</a></li>
-									<li><a href="#">Become a member</a></li>
-									<li><a href="#">Donate</a></li>
-								</ul>
-							</div>
-						</div>
-								</div><div style="position: absolute; left: 660px; display: block;" class="ca-item ca-item-1">
-						<div class="ca-item-main">
-							<div class="ca-icon"> </div>
-							<h3>Stop factory farming</h3>
-							<h4>
-								<span class="ca-quote">¡°</span>
-								<span>The greatness of a nation and its moral progress can be judged by the way in which its animals are treated.</span>
-							</h4>
-								<a style="display: block;" href="#" class="ca-more">+</a>
-						</div>
-						<div style="left: 330px; width: 0px;" class="ca-content-wrapper">
-							<div class="ca-content">
-								<h6>Animals are not commodities</h6>
-								<a href="#" class="ca-close">close</a>
-								<div class="ca-content-text">
-									<p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-									<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream;</p>
-									<p>She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-								</div>
-								<ul>
-									<li><a href="#">Read more</a></li>
-									<li><a href="#">Share this</a></li>
-									<li><a href="#">Become a member</a></li>
-									<li><a href="#">Donate</a></li>
-								</ul>
-							</div>
-						</div></div>
-
-<div style="position: absolute; left: 990px; display: block;" class="ca-item ca-item-2">
-						<div class="ca-item-main">
-							<div class="ca-icon"> </div>
-							<h3>Respect Life &amp; Rights</h3>
-							<h4>
-								<span class="ca-quote">¡°</span>
-								<span>I hold that the more helpless a creature, the more entitled it is to protection by man from the cruelty of man.</span>
-							</h4>
-								<a style="display: block;" href="#" class="ca-more">+</a>
-						</div>
-						<div style="left: 330px; width: 0px;" class="ca-content-wrapper">
-							<div class="ca-content">
-								<h6>Would you eat your dog?</h6>
-								<a href="#" class="ca-close">close</a>
-								<div class="ca-content-text">
-									<p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-									<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream;</p>
-									<p>She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-								</div>
-								<ul>
-									<li><a href="#">Read more</a></li>
-									<li><a href="#">Share this</a></li>
-									<li><a href="#">Become a member</a></li>
-									<li><a href="#">Donate</a></li>
-								</ul>
-							</div>
-						</div>
-					</div><div style="position: absolute; left: 1320px; display: block;" class="ca-item ca-item-3">
-						<div class="ca-item-main">
-							<div class="ca-icon"> </div>
-							<h3>Become 100% meat-free</h3>
-							<h4>
-								<span class="ca-quote">¡°</span>
-								<span>I feel that spiritual progress does demand at some stage that we should cease to kill our fellow creatures for the satisfaction of our bodily wants.</span>
-							</h4>
-								<a style="display: block;" href="#" class="ca-more">+</a>
-						</div>
-						<div style="left: 330px; width: 0px;" class="ca-content-wrapper">
-							<div class="ca-content">
-								<h6>You can change the world</h6>
-								<a href="#" class="ca-close">close</a>
-								<div class="ca-content-text">
-									<p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-									<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream;</p>
-									<p>She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-								</div>
-								<ul>
-									<li><a href="#">Read more</a></li>
-									<li><a href="#">Share this</a></li>
-									<li><a href="#">Become a member</a></li>
-									<li><a href="#">Donate</a></li>
-								</ul>
-							</div>
-						</div>
-					</div><div style="position: absolute; left: 1650px; display: block;" class="ca-item ca-item-4">
-						<div class="ca-item-main">
-							<div class="ca-icon"> </div>
-							<h3>Make a difference</h3>
-							<h4>
-								<span class="ca-quote">¡°</span>
-								<span>A man is but the product of his thoughts what he thinks, he becomes.</span>
-							</h4>
-								<a style="display: block;" href="#" class="ca-more">+</a>
-						</div>
-						<div style="left: 330px; width: 0px;" class="ca-content-wrapper">
-							<div class="ca-content">
-								<h6>Think globally, act locally</h6>
-								<a href="#" class="ca-close">close</a>
-								<div class="ca-content-text">
-									<p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-									<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream;</p>
-									<p>She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-								</div>
-								<ul>
-									<li><a href="#">Read more</a></li>
-									<li><a href="#">Share this</a></li>
-									<li><a href="#">Become a member</a></li>
-									<li><a href="#">Donate</a></li>
-								</ul>
-							</div>
-						</div>
-					</div><div style="position: absolute; left: 1980px; display: block;" class="ca-item ca-item-5">
-						<div class="ca-item-main">
-							<div class="ca-icon"> </div>
-							<h3>Say no to killing</h3>
-							<h4>
-								<span class="ca-quote">¡°</span>
-								<span>A weak man is just by accident. A strong but non-violent man is unjust by accident.</span>
-							</h4>
-								<a style="display: block;" href="#" class="ca-more">+</a>
-						</div>
-						<div style="left: 330px; width: 0px;" class="ca-content-wrapper">
-							<div class="ca-content">
-								<h6>Animals have rights, too!</h6>
-								<a href="#" class="ca-close">close</a>
-								<div class="ca-content-text">
-									<p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-									<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream;</p>
-									<p>She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-								</div>
-								<ul>
-									<li><a href="#">Read more</a></li>
-									<li><a href="#">Share this</a></li>
-									<li><a href="#">Become a member</a></li>
-									<li><a href="#">Donate</a></li>
-								</ul>
-							</div>
-						</div>
-					</div><div style="position: absolute; left: 2310px; display: block;" class="ca-item ca-item-6">
-						<div class="ca-item-main">
-							<div class="ca-icon"> </div>
-							<h3>Don't believe the lies</h3>
-							<h4>
-								<span class="ca-quote">¡°</span>
-								<span>An error does not become truth by reason of multiplied propagation, nor does truth become error because nobody sees it.</span>
-							</h4>
-								<a style="display: block;" href="#" class="ca-more">+</a>
-						</div>
-						<div style="left: 330px; width: 0px;" class="ca-content-wrapper">
-							<div class="ca-content">
-								<h6>How essential is meat?</h6>
-								<a href="#" class="ca-close">close</a>
-								<div class="ca-content-text">
-									<p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
-									<p>When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream;</p>
-									<p>She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-								</div>
-								<ul>
-									<li><a href="#">Read more</a></li>
-									<li><a href="#">Share this</a></li>
-									<li><a href="#">Become a member</a></li>
-									<li><a href="#">Donate</a></li>
-								</ul>
-							</div>
-						</div>
-					</div></div>
-						</div>
-					<!-- the jScrollPane script -->
-					<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-					<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-					<!-- the jScrollPane script -->
-					<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
-					<script type="text/javascript" src="js/jquery.contentcarousel.js"></script>
-					<script type="text/javascript">
-						$('#ca-container').contentcarousel();
-					</script>	
 </section>
 
-</section>
+
